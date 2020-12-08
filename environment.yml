@@ -6,6 +6,11 @@ dependencies:
   - pandas=1.1.3
   - pip=20.2.4
   - python=3.7.9
+  - adal
+  - requests
+  - hvplot
+  - panel
+  - tqdm
   - pip:
     - azure-iot-device==2.4.0
     - xmltodict==0.12.0
