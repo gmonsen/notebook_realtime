@@ -7,6 +7,7 @@ dependencies:
   - pip=20.2.4
   - python=3.7.9
   - adal
+  - msal
   - requests
   - hvplot
   - panel
